@@ -16,7 +16,7 @@
     "start": "pcf-scripts start"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^1.2.3",
+    "@reduxjs/toolkit": "^1.5.0",
     "@types/jest": "^24.9.0",
     "@types/node": "^10.12.18",
     "@types/powerapps-component-framework": "^1.2.0",
